@@ -1,9 +1,9 @@
-import FeaturedPost from "@/components/FeaturedPost";
-import Hero from "@/components/Hero";
-import NewsletterCard from "@/components/NewsletterCard";
-import RecentBlogs from "@/components/RecentBlogs";
-import TopArticles from "@/components/TopArticles";
-import postMetadata from "@/utils/postMetadata";
+import FeaturedPost from "../components/FeaturedPost";
+import Hero from "../components/Hero";
+import NewsletterCard from "../components/NewsletterCard";
+import RecentBlogs from "../components/RecentBlogs";
+import TopArticles from "../components/TopArticles";
+import postMetadata from "../utils/postMetadata";
 import { Metadata } from "next";
 
 export const metadata: Metadata = {
